@@ -6,8 +6,8 @@
 ¡Hola! Soy Gotzon, profesor en los diferentes ciclos formativos de informática de formación profesional con experiencia en diversas asignaturas, tanto técnicas como de desarrollo software. Mi objetivo es compartir conocimientos y recursos que ayuden a estudiantes y profesionales a profundizar en el mundo de la informática.
 
 ## Recursos Destacados
-### Proyectos
-- [Nombre del Proyecto](enlace al repositorio): Breve descripción del proyecto.
+### Asignaturas
+- [Programación A / Programación básica] (https://github.com/gvalcarcel/DAX_ASIR-M03): Ejercicios planteados y resueltos de Programación (C# edition).
 
 ### Tutoriales
 - [Título del Tutorial](enlace al repositorio): Descripción breve del tutorial.
