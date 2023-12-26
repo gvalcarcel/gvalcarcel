@@ -1,16 +1,24 @@
-### Hi there 👋
+# Profesor de Informática - Gotzon Valcarcel
 
-<!--
-**gvalcarcel/gvalcarcel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+¡Bienvenido a mi perfil de GitHub! Aquí encontrarás recursos educativos, proyectos interesantes y herramientas útiles relacionadas con la informática.
 
-Here are some ideas to get you started:
+## Acerca de mí
+¡Hola! Soy Gotzon, profesor en los diferentes ciclos formativos de informática de formación profesional con experiencia en diversas asignaturas, tanto técnicas como de desarrollo software. Mi objetivo es compartir conocimientos y recursos que ayuden a estudiantes y profesionales a profundizar en el mundo de la informática.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Recursos Destacados
+### Proyectos
+- [Nombre del Proyecto](enlace al repositorio): Breve descripción del proyecto.
+
+### Tutoriales
+- [Título del Tutorial](enlace al repositorio): Descripción breve del tutorial.
+- [Título del Tutorial 2](enlace al repositorio): Descripción breve del tutorial.
+
+### Herramientas
+- [Nombre de la Herramienta](enlace al repositorio): Breve descripción de la herramienta y su utilidad.
+- [Nombre de la Herramienta 2](enlace al repositorio): Breve descripción de la herramienta y su utilidad.
+
+## Contacto
+Puedes encontrarme en las siguientes redes:
+- LinkedIn: https://www.linkedin.com/in/gotzonvalcarcel/
+
+¡Gracias por visitar mi perfil! Espero que encuentres útiles los recursos que he compartido. Si tienes alguna pregunta o sugerencia, no dudes en contactarme.
